@@ -61,3 +61,9 @@ Estos grupos muestran mayor apertura a productos financieros de ahorro.
 4️⃣ Optimizar la duración de las llamadas
 
 La probabilidad de éxito aumenta significativamente cuando la llamada supera los 5 minutos, lo que sugiere que la interacción y la persuasión influyen directamente en la conversión.
+
+## Dashboard Interactivo
+
+Puedes visualizar el dashboard completo en el siguiente enlace:
+
+🔗 [Ver Dashboard del Proyecto](https://claude.ai/public/artifacts/f4e05e6b-8c1a-424f-9076-6c9c1674ccbd)
